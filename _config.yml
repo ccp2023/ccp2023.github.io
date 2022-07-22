@@ -1,1 +1,6 @@
+markdown: kramdown
 theme: jekyll-theme-dinky
+title: CCP2023: 34th IUPAP Conference on Computational Physics
+show_downloads: false
+github:
+  is_project_page: false
