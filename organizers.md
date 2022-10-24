@@ -13,8 +13,8 @@ title: Organizers
 * Yuko OKAMOTO, Chair (Nagoya University)
 * Hisashi OKUMURA (Exploratory Research Center on Life and Living Systems/Institute for Molecular Science)
 * Motoyuki SHIGA (Japan Atomic Energy Agency)
-* Shinji TSUNEYUKI (University of Tokyo)
 * Synge TODO (University of Tokyo)
+* Shinji TSUNEYUKI (University of Tokyo)
 
 ## International Advisory Board
 
@@ -75,7 +75,7 @@ and
 
 Members of the International Advisory Board
 
-## Committee for Inviting CCP2023 to Japan
+## Organizing Committee
 
 1. Computer Science, Quantum Computer, and Machine Learning
     * Keisuke FUJII (Osaka University)

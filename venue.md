@@ -14,3 +14,6 @@ Kobe International Conference Center is connected with the Port Liner Railway St
 The Shimin-Hiroba Station, just next to the Conference Venue, is 10 min from downtown Kobe (Sannomiya) (and 8 min from Kobe Airport) by Port Liner Railway.
 
 <img src="assets/images/kobe.png"/>
+
+<img src="assets/images/kobe.jpg"/>
+Photo: ©︎ Kobe Tourism Bureau
