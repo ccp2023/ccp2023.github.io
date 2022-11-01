@@ -69,20 +69,21 @@ Note: Room rates may change by 2023.
 * [https://kobe-cc.jp/en/visitors/local-area-guide/](https://kobe-cc.jp/en/visitors/local-area-guide/) 
  [L: 700 yen - 5,000 yen; D: 1,500 yen - 20,000 yen] 
 * Some examples are:
-   * [Udon No Kotonoha (Udon noodles) [900 yen -]](https://tabelog.com/hyogo/A2801/A280104/28007285/)
    * [Kobesankan (Chinese) [1000 yen -]](https://gurunavi.com/en/kd79800/rst/)
-   * [Casual Lounge Cocoro (Okonomiyaki) [1000 yen -]](http://sp.raqmo.com/cocolo/)
+   * [Udon No Kotonoha (Udon noodles) [900 yen -]](https://tabelog.com/hyogo/A2801/A280104/28007285/)
+   * [Casual Lounge Cocoro (Okonomiyaki: Japanese pancake/pizza) [1000 yen -]](http://sp.raqmo.com/cocolo/)
+   * [Trattoria Terrazza (Italian) [1300 yen -]](https://tabelog.com/hyogo/A2801/A280104/28001291/)
    * [Gyutaro (Korean BBQ) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28004705/)
    * [Chiriken (Chinese) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28049018/)
-   * [Konishi (Yakitori) [700 yen -]](https://tabelog.com/hyogo/A2801/A280104/28003350/)
-   * [Marina Square (Casual Western Food) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28015317/)
+   * [Konishi (Yakitori: grilled chicken) [700 yen -]](https://tabelog.com/hyogo/A2801/A280104/28003350/)
+   * [Marina Square (Western) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28015317/)
+   * [Prashanti (Western) [1000 yen -]](https://tabelog.com/hyogo/A2801/A280104/28003868/)
    * [Restaurants in Port Pia Hotel [about 2500 yen -]](https://www.portopia.co.jp/en/restaurant/)
-   * [Restaurants in Hotel Pearl City [about 2000 yen -]](https://www.pearlcity.jp/kobe/en/restaurants/)
-   * [Restaurant in Ariston Hotel (Trattoria Terrazza) [1300 yen -]](https://www.ariston.jp/kobe/en/restaurant/)
-   * [Etranges (Italian) [700 yen -]](https://etrangers-kobe.business.site)
 
-   * [Minatoan En (Casual Japanese) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28049083/)
-   * [Kazokutei (Japanese Noodle) [600 yen -]](https://kazokutei.co.jp/port-island/menu/?store_id=port-island&doing_wp_cron=1667278945.0028700828552246093750)
+   * [Etranges (Italian) [700 yen -]](https://etrangers-kobe.business.site)
+   * [IKEA Restaurant Kobe (Swedish) [1000 yen -]](https://tabelog.com/hyogo/A2801/A280104/28007247/dtlmenu/)
+   * [Minatoan En (Japanese) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28049083/)
+   * [Kazokutei (Japanese noodles) [600 yen -]](https://kazokutei.co.jp/port-island/menu/?store_id=port-island&doing_wp_cron=1667278945.0028700828552246093750)
 
 
 ###  Downtown Kobe
