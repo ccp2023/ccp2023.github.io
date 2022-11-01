@@ -5,9 +5,8 @@ title: Travel Information
 
 # Travel Information
 
-Kobe is a beautiful port city with population of 1.5 million in the Kansai Region of Japan.
-* [https://www.feel-kobe.jp/en/](https://www.feel-kobe.jp/en/)
-It was a capital of Japan for a very short period (around 1,180 AD), and so you can enjoy both old and modern parts of Kobe. It is famous for Kobe beef and Sake (of Nada Area). 
+Kobe [https://www.feel-kobe.jp/en/](https://www.feel-kobe.jp/en/) <br/>
+is a beautiful port city with population of 1.5 million in the Kansai Region of Japan. It was a capital of Japan for a very short period (around 1,180 AD), and so you can enjoy both old and modern parts of Kobe. It is famous for Kobe beef and Sake (of Nada Area). 
 
 ## Transportation
 
@@ -70,8 +69,21 @@ Note: Room rates may change by 2023.
 * [https://kobe-cc.jp/en/visitors/local-area-guide/](https://kobe-cc.jp/en/visitors/local-area-guide/) 
  [L: 700 yen - 5,000 yen; D: 1,500 yen - 20,000 yen] 
 * Some examples are:
-   * [Kaen (Chinese) [1,000 yen -]](http://www.kobe-kaen.com/index.html)
    * [Udon No Kotonoha (Udon noodles) [900 yen -]](https://tabelog.com/hyogo/A2801/A280104/28007285/)
+   * [Kobesankan (Chinese) [1000 yen -]](https://gurunavi.com/en/kd79800/rst/)
+   * [Casual Lounge Cocoro (Okonomiyaki) [1000 yen -]](http://sp.raqmo.com/cocolo/)
+   * [Gyutaro (Korean BBQ) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28004705/)
+   * [Chiriken (Chinese) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28049018/)
+   * [Konishi (Yakitori) [700 yen -]](https://tabelog.com/hyogo/A2801/A280104/28003350/)
+   * [Marina Square (Casual Western Food) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28015317/)
+   * [Restaurants in Port Pia Hotel [about 2500 yen -]](https://www.portopia.co.jp/en/restaurant/)
+   * [Restaurants in Hotel Pearl City [about 2000 yen -]](https://www.pearlcity.jp/kobe/en/restaurants/)
+   * [Restaurant in Ariston Hotel (Trattoria Terrazza) [1300 yen -]](https://www.ariston.jp/kobe/en/restaurant/)
+   * [Etranges (Italian) [700 yen -]](https://etrangers-kobe.business.site)
+
+   * [Minatoan En (Casual Japanese) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28049083/)
+   * [Kazokutei (Japanese Noodle) [600 yen -]](https://kazokutei.co.jp/port-island/menu/?store_id=port-island&doing_wp_cron=1667278945.0028700828552246093750)
+
 
 ###  Downtown Kobe
 
@@ -89,7 +101,7 @@ Note: Room rates may change by 2023.
    * [Kaisenizakaya Kairyu [3,000 yen -]](https://tabelog.com/hyogo/A2801/A280101/28002770/)
 * Ramen
    * [Metro Ramen [850 yen -]](https://tabelog.com/hyogo/A2801/A280101/28054153/)
-   * [Daiichi Asahi Sannomiya [700 yen -]](https://eat-kobenight.jp/restaurant/307/)
+   * [Daiichi Asahi Sannomiya [700 yen -]](https://asahi-foods.co.jp)
    * [Moccos [700 yen -]](https://www.moccos.jp/)
 * Chinese
    * [Kobe Motomachi Bekkan Botanen [5,000 yen -]](https://www.botanen.jp/)
@@ -99,24 +111,6 @@ Note: Room rates may change by 2023.
    * [Hyogo Halal restaurant [1,000 yen -]](https://tabelog.com/hyogo/A2801/A280103/28051394/)
    * [Ali’s Halal Kitchen [1,000 yen -]](https://tabelog.com/hyogo/A2801/A280101/28047078/)
    * [NAAN INN [1,500 yen -]](https://tabelog.com/hyogo/A2801/A280101/28000464/)
-
-## Cultural Experiences in Kobe
-
-* Learn about Japan’s spiritual drink on this sake brewery
-
-    Founded over 360 years ago in 1659, this historical and active brewery provides visitors with the opportunity to learn about the brewing process and witness traditional Japanese craftsmanship first hand. Guided through the brewery by an in-house expert, the visitors will learn how to enjoy sake as they sample various types of Japan’s traditional drink. 
-
-* Experience the mysterious world of geisha in Arima Hot Spring
-
-    Arima Hot Spring is known as one of only three old meisen, or great hot springs, in Japan with records dating back to the 8th century. The town invites visitors to take a trip back in time and provides a stark contrast to central Kobe. There may be an opportunity to view the traditional performances of Arima geisha and learn the secrets of their world through direct interaction.
-
-* Hike up Mt. Maya & experience authentic Zen meditation
-
-    Amongst the many peaks that make up the Rokko Mountain Range, Mt. Maya offers explorers the chance to experience wild Japanese forest. At the peak, there are spectacular views. You could visit Tenjoji Temple on Mt. Maya, where you may be able to experience zazen, a form of meditation practiced by the Temple’s Buddhist monks.
-
-* Akashi Fish Market tour and fresh sushi lunch
-
-    The Seto Inland Sea that surrounds the port of Akashi is known for its beauty and abundant seafood. You may be able to experience the action of the rare daytime auction at the Akashi Fish Market direct from the sidelines. Following the auction, you can enjoy a fresh sushi lunch prepared from the seafood caught that day.
 
 ## Post Conference Activities
 

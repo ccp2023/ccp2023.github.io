@@ -160,6 +160,7 @@ Members of the International Advisory Board
     * Tetsuro NAGAI (Fukuoka University)
     * Takahito NAKAJIMA (RIKEN R-CCS)
     * Motoyuki SHIGA (Japan Atomic Energy Agency)
+    * Kenji YASUOKA (Keio University)
 20. Biophysics
     * Ayori MITSUTAKE (Meiji University)
     * Osamu MIYASHITA (RIKEN R-CCS)
