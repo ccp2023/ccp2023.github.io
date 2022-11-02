@@ -69,7 +69,7 @@ Note: Room rates may change by 2023.
 * [https://kobe-cc.jp/en/visitors/local-area-guide/](https://kobe-cc.jp/en/visitors/local-area-guide/) 
  [L: 700 yen - 5,000 yen; D: 1,500 yen - 20,000 yen] 
 * Some examples are:
-   * [Kobesankan (Chinese) [1000 yen -]](https://gurunavi.com/en/kd79800/rst/)
+   * [Kobesankan (Chinese) [1000 yen -] in the venue building](https://gurunavi.com/en/kd79800/rst/)
    * [Udon No Kotonoha (Udon noodles) [900 yen -]](https://tabelog.com/hyogo/A2801/A280104/28007285/)
    * [Casual Lounge Cocoro (Okonomiyaki: Japanese pancake/pizza) [1000 yen -]](http://sp.raqmo.com/cocolo/)
    * [Trattoria Terrazza (Italian) [1300 yen -]](https://tabelog.com/hyogo/A2801/A280104/28001291/)
@@ -84,7 +84,9 @@ Note: Room rates may change by 2023.
    * [IKEA Restaurant Kobe (Swedish) [1000 yen -]](https://tabelog.com/hyogo/A2801/A280104/28007247/dtlmenu/)
    * [Minatoan En (Japanese) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28049083/)
    * [Kazokutei (Japanese noodles) [600 yen -]](https://kazokutei.co.jp/port-island/menu/?store_id=port-island&doing_wp_cron=1667278945.0028700828552246093750)
-
+   * [Big Boy (American) [1000 yen -]](https://tabelog.com/hyogo/A2801/A280104/28034230/)
+   * [Rei (Chinese) [700 yen -]](https://tabelog.com/hyogo/A2801/A280104/28051612/)
+   * [Gohanya (Japanese) [800 yen -]](https://tabelog.com/hyogo/A2801/A280104/28056500/)
 
 ###  Downtown Kobe
 
