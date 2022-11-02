@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:36px 0 10px;
 }
 
-p, ul, ol, dl {
+p, ul, ol, table, dl {
   margin:0 0 22px;
 }
 
@@ -202,12 +202,10 @@ th {
  }
 
 td {
-  /* padding: 10px; */
+  padding: 10px;
+	background: #ccc;
  }
 
-.noborder {
-    border: none;
-}
 
 /* Wrapper */
 .wrapper {
