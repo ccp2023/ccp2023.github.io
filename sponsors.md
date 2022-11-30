@@ -5,8 +5,8 @@ title: Sponsors
 
 # Sponsors
 
-* [CCP2023における展示のお願い](assets/files/CCP2023展示願い-2022-11.pdf) [[pdf]](assets/files/CCP2023展示願い-2022-11.pdf)
-* CCP2023展示申込書: [[word]](assets/files/CCP2023展示申込書-2022-11b.docx) [[pdf]](assets/files/CCP2023展示申込書-2022-11b.pdf)
+* [CCP2023における展示のお願い](assets/files/CCP2023展示願い-2022-11b.pdf) [[pdf]](assets/files/CCP2023展示願い-2022-11b.pdf)
+* CCP2023展示申込書: [[word]](assets/files/CCP2023展示申込書-2022-11c.docx) [[pdf]](assets/files/CCP2023展示申込書-2022-11c.pdf)
 
 <table class="noborder">
 <tr>
