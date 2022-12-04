@@ -69,7 +69,6 @@ and
 * Shigenori TANAKA (Kobe University)
 * Tomo-Hiko WATANABE (Nagoya University)
 * Takeshi YANAI (Nagoya University)
-* Fukuko YUASA (KEK)
 
 ### International Program Committee
 
@@ -89,7 +88,7 @@ Members of the International Advisory Board
     * Sinya AOKI (Kyoto University)
     * Yasumichi AOKI (RIKEN R-CCS)
     * Shoji HASHIMOTO (KEK)
-    * Etsuko ITOU (RIKEN Nishina Institute)
+    * Etsuko ITOU (RIKEN)
     * Takashi KANEKO (KEK)
     * Yosinobu KURAMASHI (CCS, University of Tsukuba)
     * Fukuko YUASA (KEK)
