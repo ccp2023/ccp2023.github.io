@@ -31,7 +31,8 @@ body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
-	background-color: #FBFAF7;
+	/* background-color: #FBFAF7; */
+	background-color: #FFFFFF;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -202,11 +203,13 @@ th {
  }
 
 td {
+  text-align: center;
+  vertical-align: middle;
   /* padding: 10px; */
  }
 
 .noborder {
-    border: none;
+  border: none;
 }
 
 /* Wrapper */
