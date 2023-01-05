@@ -22,7 +22,7 @@ title: Sponsors
   <td><a href="https://matlantis.com/"><img class="noborder" src="assets/images/pfcc.png" width="200" /></a></td>
 </tr>
 <tr>
-  <td><a href="https://www.hpci-office.jp/">HPCI</a></td>
-  <td></td>
+  <td><a href="https://keisan.tokyo.rist.or.jp/"><img class="noborder" src="assets/images/rist.jpg" width="120" /></a></td>
+  <td><a href="https://www.hpci-office.jp/"><img class="noborder" src="assets/images/hpci.png" width="250" /></a></td>
 </tr>
 </table>
