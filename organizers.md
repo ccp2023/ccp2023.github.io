@@ -21,7 +21,7 @@ title: Organizers
 ### [IUPAP C20 Commission (Computational Physics) Members](https://iupap.org/who-we-are/internal-organization/commissions/c20-computational-physics/c20-members/)
 
 * Mei-Yin CHOU (Academia Sinica, Taiwan)
-* Andrew HORSFIELD (Imperial College London, UK) 
+* Andrew HORSFIELD (Imperial College London, UK)
 * Suklyun HONG (Sejong University, Korea)
 * Regina MAPHANGA (University of Limpopo, South Africa)
 * Xiaoqun WANG (Shanghai Jiao Tong University, China)
@@ -49,7 +49,7 @@ and
 
 * Sinya AOKI (Kyoto University)
 * Michiko FUJII (University of Tokyo)
-* Toshiyuki GOTOH (Nagoya Institute of Technology) 
+* Toshiyuki GOTOH (Nagoya Institute of Technology)
 * Tetsuo HATSUDA (RIKEN iTHEMS)
 * Chisa HOTTA (University of Tokyo)
 * Koji HUKUSHIMA (University of Tokyo)
@@ -119,6 +119,7 @@ Members of the International Advisory Board
     * Izumi MURAKAMI (National Institute for Fusion Science)
     * Mieko TOIDA (National Institute for Fusion Science)
     * Yasuhiko SENTOKU (ILE, Osaka University)
+    * Hideaki TAKABE (Osaka University)
     * Tomo-Hiko WATANABE (Nagoya University)
 8. Magnetism
     * Tsuyoshi OKUBO (University of Tokyo)
@@ -137,11 +138,11 @@ Members of the International Advisory Board
     * Atsushi OSHIYAMA (Nagoya University)
     * Shinji TSUNEYUKI (University of Tokyo)
 13. Condensed Matter Theory
-    * Takashi MIYAKE (AIST)     
+    * Takashi MIYAKE (AIST)
 14. Statistical Physics
     * Naoki KAWASHIMA (ISSP, University of Tokyo)
     * Synge TODO (University of Tokyo)
-15. Fluid Mechanics 
+15. Fluid Mechanics
     * Toshiyuki GOTOH (Nagoya Institute of Technology)
     * Kengo NAKAJIMA (RIKEN R-CCS/University of Tokyo)
     * Keiko TAKAHASHI (Waseda University)

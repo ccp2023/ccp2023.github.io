@@ -10,19 +10,22 @@ title: Sponsors
 
 <table class="noborder">
 <tr>
-  <td><a href="https://iupap.org"><img  class="noborder" src="assets/images/iupap-logo.png" width="150" /></a></td>
+  <td><a href="https://iupap.org"><img  class="noborder" src="assets/images/iupap-logo.png" width="160" /></a></td>
   <td><a href="https://kobe-convention.jp/en/"><img class="noborder" src="assets/images/kobe-convention-bureau.jpg" width="200" /></a></td>
 </tr>
 <tr>
   <td>TSUTOMU NAKAUCHI<br />FOUNDATION</td>
-  <td><a href="https://winmostar.com/"><img class="noborder" src="assets/images/winmostar.png" width="250" /></a></td>
-</tr>
-<tr>
-  <td><a href="https://www.harrisgeospatial.co.jp/"><img class="noborder" src="assets/images/harris.jpg" width="250" /></a></td>
-  <td><a href="https://matlantis.com/"><img class="noborder" src="assets/images/pfcc.png" width="200" /></a></td>
+  <td><a href="https://www.inoue-zaidan.or.jp">Inoue Foundation for Science</a></td>
 </tr>
 <tr>
   <td><a href="https://keisan.tokyo.rist.or.jp/"><img class="noborder" src="assets/images/rist.jpg" width="120" /></a></td>
   <td><a href="https://www.hpci-office.jp/"><img class="noborder" src="assets/images/hpci.png" width="250" /></a></td>
+</tr>
+<tr>
+  <td><a href="https://winmostar.com/"><img class="noborder" src="assets/images/winmostar.png" width="250" /></a></td>
+  <td><a href="https://www.harrisgeospatial.co.jp/"><img class="noborder" src="assets/images/harris.jpg" width="250" /></a></td>
+</tr>
+<tr>
+  <td><a href="https://matlantis.com/"><img class="noborder" src="assets/images/pfcc.png" width="200" /></a></td>
 </tr>
 </table>
