@@ -23,7 +23,7 @@ title: Organizers
 * Mei-Yin CHOU (Academia Sinica, Taiwan)
 * Andrew HORSFIELD (Imperial College London, UK)
 * Suklyun HONG (Sejong University, Korea)
-* Regina MAPHANGA (University of Limpopo, South Africa)
+* Regina MAPHANGA (Council for Scientific and Industrial Research, South Africa)
 * Xiaoqun WANG (Shanghai Jiao Tong University, China)
 * Anthony MAGGS (CNRS – Laboratoire Gulliver, France)
 * Alfonso Munoz GONZALEZ (Universidad de La Laguna, Spain)
