@@ -5,4 +5,4 @@ title: Abstracts
 
 # Abstracts
 
-Abstracts submission will be opened on March 1, 2023
+Abstracts submission will be opened on March 6, 2023
