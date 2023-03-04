@@ -16,6 +16,10 @@ CCP2023 is the 34th in a series of meetings of scientists working in the domain 
 <img src="assets/images/twilight.jpg"/>
 Kobe in the twilight (©︎ Kobe Tourism Bureau）
 
+### News
+
+* [2023-03-06] Online [abstract submission](abstracts.html) and [registration](registration.html) have opened.
+
 ### [IUPAP Conference Policies](https://iupap.org/conferences/conference-policies/)
 
 CCP2023 will be conducted in accordance with principles of
