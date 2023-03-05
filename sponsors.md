@@ -22,10 +22,15 @@ title: Sponsors
   <td><a href="https://www.hpci-office.jp/"><img class="noborder" src="assets/images/hpci.png" width="250" /></a></td>
 </tr>
 <tr>
+  <td><a href="https://www.springer.com"><img class="noborder" src="assets/images/springer.png" width="200" /></a></td>
   <td><a href="https://winmostar.com/"><img class="noborder" src="assets/images/winmostar.png" width="250" /></a></td>
-  <td><a href="https://www.harrisgeospatial.co.jp/"><img class="noborder" src="assets/images/harris.jpg" width="250" /></a></td>
 </tr>
 <tr>
+  <td><a href="https://www.harrisgeospatial.co.jp/"><img class="noborder" src="assets/images/harris.jpg" width="250" /></a></td>
   <td><a href="https://matlantis.com/"><img class="noborder" src="assets/images/pfcc.png" width="200" /></a></td>
 </tr>
+<tr>
+  <td><a href="https://www.gdep.co.jp/"><img class="noborder" src="assets/images/gdep.png" width="280" /></a></td>
+</tr>
+
 </table>
