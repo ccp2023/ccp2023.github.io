@@ -8,7 +8,8 @@ title: Registration
 * Online registration: [https://ccp.confit.atlas.jp/](https://ccp.confit.atlas.jp/)
 * Registration period:
   * early: March 6, 2023 - May 31, 2023 (JST)
-  * regular: June 1, 2023 - July 15, 2023 (JST)
+  * regular: June 1, 2023 - July 15, 2023 (JST) for oral/poster presentation
+  * regular: June 1, 2023 - August 8, 2023 (JST) for those without presentation
 
 ### Registration fee
 
