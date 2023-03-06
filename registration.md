@@ -27,9 +27,9 @@ title: Registration
 * JST stands for Japan Standard Time and JPY stands for Japanese currency YEN.
 * Registration and payment for oral/poster presentation will be closed on July 15, 2023 JST, but one can still register and pay for participation without presentation after this date.
 * Registration fees are the same for on-site and on-line participation.
-* Registration fees include attendance in all conference sessions, coffee breaks (for on-site participants), and a conference kit (for on-site participants).
-* The banquet fee is not included in the registration fee. A separate fee of 3,000 JPY per person will be collected from those who attend the banquet.
 * For “Student” type registration, upload of student ID is required.
+* Registration fees include attendance in all conference sessions and coffee breaks (for on-site participants).
+* The banquet fee is not included in the registration fee. A separate fee of 3,000 JPY per person will be collected from those who attend the banquet.
 * Registration fees and banquet fees must be paid by credit card. We accept major credit cards (Master, VISA, JCB, AMEX, and Diners). The participants will get access to the abstract files, presentation movies, etc., only after the payment is completed.
 * “DAC1” corresponds to institutions in countries classified as “Lower Middle Income Countries and Territories”, and “DAC2” corresponds to those in countries classified as “Low Income Countries” and “Least Developed Countries” in [DAC List of ODA Recipients (Effective for reporting on 2022 and 2023 flows)](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-of-ODA-Recipients-for-reporting-2022-23-flows.pdf):
   * [https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-of-ODA-Recipients-for-reporting-2022-23-flows.pdf](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-of-ODA-Recipients-for-reporting-2022-23-flows.pdf)
