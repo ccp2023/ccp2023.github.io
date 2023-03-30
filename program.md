@@ -18,3 +18,16 @@ title: Program
 ### Presentation materials
 
 For the online participants with the time difference, we plan to take videos of all the oral presentations and upload them to the program website so that they can view the presentations later during the Conference. If the presenters agree to provide them, we will upload the PDF files of the oral/poster presentations on the same program website. Only the registered participants with payment completed will have access to the website.
+
+### Plenary/keynote speakers
+
+* Ali Alavi (Max Planck Institute for Solid State Research/University of Cambridge; Germany/UK)
+* Masaru Shibata (Max Planck Institute for Gravitational Physics; Germany) 　　　
+* Yuji Sugita (RIKEN; Japan)
+* Marianna Safronova (Univ of Delaware; USA)
+* Bernard Brooks (NIH; USA)
+* Zoltan Fodor (Univ. of Wuppertal/Pennsylvania State Univ.; Germany/USA)
+* Werner Krauth (ENS; France)
+* Nicola Marzari (EPFL; Switzerland)
+* Mira Todorova (MPIE; Germany)
+* Pui-Kuen Yeung (Georgia Inst. Tech.; USA)
