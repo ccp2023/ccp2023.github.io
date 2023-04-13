@@ -10,8 +10,12 @@ title: Sponsors
 
 <table class="noborder">
 <tr>
-  <td><a href="https://iupap.org"><img  class="noborder" src="assets/images/iupap-logo.png" width="160" /></a></td>
+  <td><a href="https://iupap.org/"><img  class="noborder" src="assets/images/iupap-logo.png" width="160" /></a></td>
+  <td><a href="https://journals.jps.jp/"><img class="noborder" src="assets/images/jps.png" width="150" /></a></td>
+</tr>
+<tr>
   <td><a href="https://kobe-convention.jp/en/"><img class="noborder" src="assets/images/kobe-convention-bureau.jpg" width="200" /></a></td>
+  <td></td>
 </tr>
 <tr>
   <td>TSUTOMU NAKAUCHI<br />FOUNDATION</td>
