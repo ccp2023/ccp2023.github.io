@@ -65,7 +65,7 @@ For the online participants with the time difference, we plan to take videos of 
 * Takashi Ishihara (Okayama University; Japan)
 * John Straub (Boston University; USA)
 * Masataka Nagaoka (Nagoya University; Japan)
-* Hideyuki Hotta (Chiba University; Japan)
+* Hideyuki Hotta (Nagoya University; Japan)
 * Takashi Kaneko (KEK; Japan)
 * Gabor Csanyi (University of Cambridge; UK)
 * Youhei Yamaji (National Institute for Materials Science; Japan)
