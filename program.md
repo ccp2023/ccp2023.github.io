@@ -55,7 +55,7 @@ For the online participants with the time difference, we plan to take videos of 
 * Mira Todorova (Max-Planck-Insitut für Eisenforschung; Germany)
 * Pui-Kuen Yeung (Georgia Institute of Technology; USA)
 
-### Invited talk speakers (confirmed speakers only; as of April 13 2023)
+### Invited talk speakers (confirmed speakers only; as of April 21 2023)
 
 * Yasushi Todo (National Institute for Fusion Science; Japan)
 * Yosuke Matsumoto (Chiba University; Japan)
@@ -74,5 +74,9 @@ For the online participants with the time difference, we plan to take videos of 
 * David Wales (University of Cambridge; UK)
 * Anders Sandvik (Boston University; USA)
 * Chaok Seok (Seoul National University; Korea)
-* Yang Sun (Xiamen University; China)
+* Sun Yang (Xiamen University; China)
 * Takuma Yamashita (Tohoku University; Japan)
+* Amy Nicholson (University of North Carolina; USA)
+* Martin Weigel (Chemnitz University of Technology; Germany)
+* Hyung Mok Lee (Seoul National University; Korea)
+* Marjolein Dijkstra (Utrecht University; Netherlands)
