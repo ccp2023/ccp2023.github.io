@@ -14,6 +14,10 @@ title: Sponsors
   <td><a href="https://journals.jps.jp/"><img class="noborder" src="assets/images/jps.png" width="150" /></a></td>
 </tr>
 <tr>
+  <td><a href="assets/files/dcomp-membership.pdf"><img  class="noborder" src="assets/images/dcomp.png" width="260" /></a></td>
+  <td><a href="https://www.eps.org/members/group.aspx?id=85228"><img class="noborder" src="assets/images/eps.png" width="110" /></a></td>
+</tr>
+<tr>
   <td><a href="https://kobe-convention.jp/en/"><img class="noborder" src="assets/images/kobe-convention-bureau.jpg" width="200" /></a></td>
   <td></td>
 </tr>
