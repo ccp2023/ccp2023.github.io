@@ -5,8 +5,8 @@ title: Sponsors
 
 # Sponsors
 
-* [CCP2023における展示のお願い](assets/files/CCP2023展示願い-2023-1b.pdf) [[pdf]](assets/files/CCP2023展示願い-2023-1b.pdf)
-* CCP2023展示申込書: [[word]](assets/files/CCP2023展示申込書-2022-11c.docx) [[pdf]](assets/files/CCP2023展示申込書-2022-11c.pdf)
+* [CCP2023における展示のお願い](assets/files/CCP2023展示願い-2023-4.pdf) [[pdf]](assets/files/CCP2023展示願い-2023-4.pdf)
+* CCP2023展示申込書: [[word]](assets/files/CCP2023展示申込書-2023-4.docx) [[pdf]](assets/files/CCP2023展示申込書-2023-4.pdf)
 
 <table class="noborder">
 <tr>
@@ -19,11 +19,11 @@ title: Sponsors
 </tr>
 <tr>
   <td><a href="https://kobe-convention.jp/en/"><img class="noborder" src="assets/images/kobe-convention-bureau.jpg" width="200" /></a></td>
-  <td></td>
+  <td>TSUTOMU NAKAUCHI<br />FOUNDATION</td>
 </tr>
 <tr>
-  <td>TSUTOMU NAKAUCHI<br />FOUNDATION</td>
   <td><a href="https://www.inoue-zaidan.or.jp">Inoue Foundation for Science</a></td>
+  <td><a href="https://www.j-focus.or.jp/"><img class="noborder" src="assets/images/focus.jpg" width="180" /></a></td>
 </tr>
 <tr>
   <td><a href="https://keisan.tokyo.rist.or.jp/"><img class="noborder" src="assets/images/rist.jpg" width="120" /></a></td>
