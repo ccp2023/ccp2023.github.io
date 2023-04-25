@@ -40,4 +40,4 @@ The fees are, in principle, not refundable after payment is completed.
 
 ### Travel/registration awards for early career APS-DCOMP members
 
-Young members (students and postdocs) of APS-DCOMP, who will give a presentation at CCP2023, are invited to apply to the travel/registration awards of 800 US dollars. The candidates should send an application e-mail attaching a recommendation letter of their supervisors to [ccp2023-oc@ml.riken.jp](mailto:ccp2023-oc@ml.riken.jp?subject=APS-DCOMP%20award) with a Subject: APS-DCOMP award. The results of acceptance or rejection will be notified to the applicants by e-mail as soon as the evaluation is completed.
+Young members (students and postdocs) of APS-DCOMP, who will give a presentation at CCP2023, are invited to apply for the travel/registration awards of 800 US dollars. The candidates should send an application e-mail attaching a CV and a recommendation letter of their supervisors to [ccp2023-oc@ml.riken.jp](mailto:ccp2023-oc@ml.riken.jp?subject=APS-DCOMP%20award) with a Subject: APS-DCOMP award. The results of acceptance or rejection will be notified to the applicants by e-mail as soon as the evaluation is completed.
