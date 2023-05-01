@@ -80,3 +80,7 @@ For the online participants with the time difference, we plan to take videos of 
 * Martin Weigel (Chemnitz University of Technology; Germany)
 * Hyung Mok Lee (Seoul National University; Korea)
 * Marjolein Dijkstra (Utrecht University; Netherlands)
+* Ryotaro Arita (University of Tokyo; Japan)
+* Yusuke Nomura (Keio University; Japan)
+* Chao-Ping Hsu (Academia Sinica; Taiwan)
+* Takumi Doi (RIKEN; Japan) (to be confirmed)
