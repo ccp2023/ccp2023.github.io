@@ -48,12 +48,14 @@ For the online participants with the time difference, we plan to take videos of 
 * Masaru Shibata (Max Planck Institute for Gravitational Physics; Germany) 　　　
 * Yuji Sugita (RIKEN; Japan)
 * Marianna Safronova (University of Delaware; USA)
+* Takaharu Otsuka (RIKEN; Japan)
 * Bernard Brooks (National Institutes of Health; USA)
 * Zoltan Fodor (University of Wuppertal/Pennsylvania State University; Germany/USA)
 * Werner Krauth (Ecole Normale Supérieure; France)
 * Nicola Marzari (École Polytechnique Fédérale de Lausanne; Switzerland)
 * Mira Todorova (Max-Planck-Insitut für Eisenforschung; Germany)
 * Pui-Kuen Yeung (Georgia Institute of Technology; USA)
+* Ryotaro Arita (University of Tokyo; Japan)
 
 ### Invited talk speakers (confirmed speakers only; as of April 21 2023)
 
@@ -80,7 +82,7 @@ For the online participants with the time difference, we plan to take videos of 
 * Martin Weigel (Chemnitz University of Technology; Germany)
 * Hyung Mok Lee (Seoul National University; Korea)
 * Marjolein Dijkstra (Utrecht University; Netherlands)
-* Ryotaro Arita (University of Tokyo; Japan)
 * Yusuke Nomura (Keio University; Japan)
 * Chao-Ping Hsu (Academia Sinica; Taiwan)
+* Mai Suan Li (Institute for Computational Science and Technology, Ho Chi Minh City/Institute of Physics, Polish Academy of Sciences; Vietnam/Poland)
 * Takumi Doi (RIKEN; Japan) (to be confirmed)
