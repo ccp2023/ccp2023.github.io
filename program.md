@@ -48,7 +48,7 @@ For the online participants with the time difference, we plan to take videos of 
 * Masaru Shibata (Max Planck Institute for Gravitational Physics; Germany) 　　　
 * Yuji Sugita (RIKEN; Japan)
 * Marianna Safronova (University of Delaware; USA)
-* Takaharu Otsuka (RIKEN; Japan)
+* Takaharu Otsuka (RIKEN/University of Tokyo; Japan)
 * Bernard Brooks (National Institutes of Health; USA)
 * Zoltan Fodor (University of Wuppertal/Pennsylvania State University; Germany/USA)
 * Werner Krauth (Ecole Normale Supérieure; France)

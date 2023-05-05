@@ -63,7 +63,7 @@ and
 * Yuko OKAMOTO (Nagoya University)
 * Takuya OKUDA (University of Tokyo)
 * Atsushi OSHIYAMA (Nagoya University)
-* Takaharu OTSUKA (RIKEN)
+* Takaharu OTSUKA (RIKEN/University of Tokyo)
 * Masako TAKASU (Tokyo University of Pharmacy and Life Sciences)
 * Misako TAKAYASU (Tokyo Institute of Technology)
 * Florence TAMA (Nagoya University/RIKEN R-CCS)
@@ -99,7 +99,7 @@ Members of the International Advisory Board
     * Chiho NONAKA (Hiroshima University)
 4. Theoretical Nuclear Physics
     * Takashi NAKATSUKASA (CCS, Univ. of Tsukuba)
-    * Takaharu OTSUKA (RIKEN)
+    * Takaharu OTSUKA (RIKEN/University of Tokyo)
     * Noritaka SHIMIZU (CNS, University of Tokyo)
     * Yutaka UTSUNO (Japan Atomic Energy Agency)
 5. Astronomy and Astrophysics
