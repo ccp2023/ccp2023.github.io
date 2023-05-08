@@ -6,6 +6,8 @@ title: Registration
 # Registration
 
 * Online registration: [https://ccp.confit.atlas.jp/](https://ccp.confit.atlas.jp/)
+  * ! Server maintenance is scheduled for May 11 21:00-25:00 (JST). Registration and abstract submission will not be available during this time.
+
 * Registration period:
   * early: March 6, 2023 - May 31, 2023 (JST)
   * regular: June 1, 2023 - July 15, 2023 (JST) for oral/poster presentation

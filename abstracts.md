@@ -6,6 +6,8 @@ title: Abstract Submission
 # Abstract Submission
 
 * Online submission: [https://ccp.confit.atlas.jp/](https://ccp.confit.atlas.jp/)
+  * ! Server maintenance is scheduled for May 11 21:00-25:00 (JST). Registration and abstract submission will not be available during this time.
+
 * Abstract submission due: ~~May 1, 2023 (JST)~~ -> May 15, 2023 (JST)
 
 The CCP2023 Organizing Committee cordially invites you to submit abstracts for oral and poster presentations. Abstracts should be prepared in PDF format generated from the template (LaTeX and Microsoft Word) and submitted [online](https://ccp.confit.atlas.jp/). We will accept only one abstract per each presenting author. All abstracts will be reviewed by the CCP2023 Program Committee and assigned to an appropriate session as either an oral or poster presentation.
