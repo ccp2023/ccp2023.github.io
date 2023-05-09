@@ -5,6 +5,8 @@ title: Registration
 
 # Registration
 
+[[Registration free](#registration-fee)] [[Cancelation Policy](#cancelation-policy)] [[Travel/registration awards for early career APS-DCOMP members](#travelregistration-awards-for-early-career-aps-dcomp-members)]
+
 * Online registration: [https://ccp.confit.atlas.jp/](https://ccp.confit.atlas.jp/)
   * ! Server maintenance is scheduled for May 11 21:00-25:00 (JST). Registration and abstract submission will not be available during this time.
 

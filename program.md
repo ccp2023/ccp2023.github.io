@@ -5,6 +5,8 @@ title: Program
 
 # Program
 
+[[Presentation materials](#presentation-materials)] [[Tpics covered](#examples-of-topics-covered)] [[Plenary/keynote talk speakers](#plenarykeynote-talk-speakers)] [[Invited talk speakers](#invited-talk-speakers)]
+
 ### Overview
 
 * August 4 (Fri), 2023: Registration and Welcome Reception at Kobe International Conference Center
@@ -56,8 +58,9 @@ For the online participants with the time difference, we plan to take videos of 
 * Mira Todorova (Max-Planck-Insitut für Eisenforschung; Germany)
 * Pui-Kuen Yeung (Georgia Institute of Technology; USA)
 * Ryotaro Arita (University of Tokyo; Japan)
+* Michael Klein (Temple University; USA)
 
-### Invited talk speakers (confirmed speakers only; as of April 21 2023)
+### Invited talk speakers
 
 * Yasushi Todo (National Institute for Fusion Science; Japan)
 * Yosuke Matsumoto (Chiba University; Japan)

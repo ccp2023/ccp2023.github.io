@@ -3,6 +3,8 @@ layout: default
 title: Travel Information
 ---
 
+[[Transportation](#transportation)] [[Climate](#climate)] [[Accommodation](#accommodation)] [[Restaurants](#restaurants)] [[Post Conference Activities](#post-conference-activities)]
+
 # Travel Information
 
 Kobe [https://www.feel-kobe.jp/en/](https://www.feel-kobe.jp/en/) <br/>
