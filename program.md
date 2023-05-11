@@ -13,7 +13,7 @@ title: Program
 * August 5 (Sat), 2023: Official Opening
 * August 5 (Sat) to 8 (Tue), 2023: Scientific Program (plenary talks in the morning, parallel and poster sessions in the afternoon) at Kobe International Conference Center
 * August 6 (Sun), 2023: IUPAP C20 Commission Lunch Meeting
-* August 7 (Mon) and 8 (Tue), 2023: Tour of the Supercomputer FUGAKU in the late afternoon
+* August 5 (Sat) and 7 (Mon), 2023: Tours of the Supercomputer FUGAKU in the afternoon
 * August 7 (Mon), 2023: Conference Banquet at Kobe Portopia Hotel
 * August 8 (Tue), 2023: Conference Closing in the late afternoon
 
