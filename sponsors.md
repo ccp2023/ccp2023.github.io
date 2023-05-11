@@ -42,11 +42,12 @@ title: Sponsors
   <td><a href="https://www.gdep.co.jp/"><img class="noborder" src="assets/images/gdep.png" width="280" /></a></td>
 </tr>
 <tr>
-  <td><a href="https://www.newtech.co.jp/"><img class="noborder" src="assets/images/newtech.gif" width="120" /></a></td>
+  <td><a href="https://www.newtech.co.jp/"><img class="noborder" src="assets/images/newtech.gif" width="100" /></a></td>
+  <td><a href="https://aws.amazon.com/jp/government-education/worldwide/japan/UR-Industry-Site/"><img class="noborder" src="assets/images/aws.png" width="110" /></a></td>
 </tr>
 <tr>
-  <td><a href="http://www.realcomputing.jp/"><img class="noborder" src="assets/images/rc.png" width="220" /></a></td>
-  <td><a href="https://www.elsa-jp.co.jp/"><img class="noborder" src="assets/images/elsa.png" width="220" /></a></td>
+  <td><a href="http://www.realcomputing.jp/"><img class="noborder" src="assets/images/rc.png" width="200" /></a></td>
+  <td><a href="https://www.elsa-jp.co.jp/"><img class="noborder" src="assets/images/elsa.png" width="200" /></a></td>
 </tr>
 
 </table>
