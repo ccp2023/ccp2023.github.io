@@ -5,7 +5,7 @@ title: Program
 
 # Program
 
-[[Presentation materials](#presentation-materials)] [[Tpics covered](#examples-of-topics-covered)] [[Plenary/keynote talk speakers](#plenarykeynote-talk-speakers)] [[Invited talk speakers](#invited-talk-speakers)]
+[[Presentation materials](#presentation-materials)] [[Topics covered](#examples-of-topics-covered)] [[Plenary talk speakers](#plenary-talk-speakers)] [[Keynote talk speakers](#keynote-talk-speakers)] [[Invited talk speakers](#invited-talk-speakers)]
 
 ### Overview
 
@@ -44,48 +44,51 @@ For the online participants with the time difference, we plan to take videos of 
 * Industrial applications
 * Education in computational physics
 
-### Plenary/keynote talk speakers
+### Plenary talk speakers
 
 * Ali Alavi (Max Planck Institute for Solid State Research/University of Cambridge; Germany/UK)
+* Takaharu Otsuka (RIKEN/University of Tokyo; Japan)
+* Marianna Safronova (University of Delaware; USA)
 * Masaru Shibata (Max Planck Institute for Gravitational Physics; Germany) 　　　
 * Yuji Sugita (RIKEN; Japan)
-* Marianna Safronova (University of Delaware; USA)
-* Takaharu Otsuka (RIKEN/University of Tokyo; Japan)
+
+### Keynote talk speakers
+
+* Ryotaro Arita (University of Tokyo; Japan)
 * Bernard Brooks (National Institutes of Health; USA)
 * Zoltan Fodor (University of Wuppertal/Pennsylvania State University; Germany/USA)
+* Michael Klein (Temple University; USA)
 * Werner Krauth (Ecole Normale Supérieure; France)
 * Nicola Marzari (École Polytechnique Fédérale de Lausanne; Switzerland)
 * Mira Todorova (Max-Planck-Insitut für Eisenforschung; Germany)
 * Pui-Kuen Yeung (Georgia Institute of Technology; USA)
-* Ryotaro Arita (University of Tokyo; Japan)
-* Michael Klein (Temple University; USA)
 
 ### Invited talk speakers
 
-* Yasushi Todo (National Institute for Fusion Science; Japan)
-* Yosuke Matsumoto (Chiba University; Japan)
-* Florence Tama (Nagoya University/RIKEN; Japan)
-* Nobuyuki Yoshioka (University of Tokyo; Japan)
-* Ken Ohsuga (University of Tsukuba; Japan)
-* Takashi Ishihara (Okayama University; Japan)
-* John Straub (Boston University; USA)
-* Masataka Nagaoka (Nagoya University; Japan)
-* Hideyuki Hotta (Nagoya University; Japan)
-* Takashi Kaneko (KEK; Japan)
 * Gabor Csanyi (University of Cambridge; UK)
-* Youhei Yamaji (National Institute for Materials Science; Japan)
-* Kazuhiro Yabana (University of Tsukuba; Japan)
+* Marjolein Dijkstra (Utrecht University; Netherlands)
+* Takumi Doi (RIKEN; Japan) (to be confirmed)
+* Hideyuki Hotta (Nagoya University; Japan)
+* Chao-Ping Hsu (Academia Sinica; Taiwan)
+* Takashi Ishihara (Okayama University; Japan)
 * Hawoong Jeong (KAIST; Korea)
-* David Wales (University of Cambridge; UK)
+* Takashi Kaneko (KEK; Japan)
+* Hyung Mok Lee (Seoul National University; Korea)
+* Mai Suan Li (Institute for Computational Science and Technology, Ho Chi Minh City/Institute of Physics, Polish Academy of Sciences; Vietnam/Poland)
+* Yosuke Matsumoto (Chiba University; Japan)
+* Masataka Nagaoka (Nagoya University; Japan)
+* Amy Nicholson (University of North Carolina; USA)
+* Yusuke Nomura (Keio University; Japan)
+* Ken Ohsuga (University of Tsukuba; Japan)
 * Anders Sandvik (Boston University; USA)
 * Chaok Seok (Seoul National University; Korea)
-* Sun Yang (Xiamen University; China)
-* Takuma Yamashita (Tohoku University; Japan)
-* Amy Nicholson (University of North Carolina; USA)
+* John Straub (Boston University; USA)
+* Florence Tama (Nagoya University/RIKEN; Japan)
+* Yasushi Todo (National Institute for Fusion Science; Japan)
+* David Wales (University of Cambridge; UK)
 * Martin Weigel (Chemnitz University of Technology; Germany)
-* Hyung Mok Lee (Seoul National University; Korea)
-* Marjolein Dijkstra (Utrecht University; Netherlands)
-* Yusuke Nomura (Keio University; Japan)
-* Chao-Ping Hsu (Academia Sinica; Taiwan)
-* Mai Suan Li (Institute for Computational Science and Technology, Ho Chi Minh City/Institute of Physics, Polish Academy of Sciences; Vietnam/Poland)
-* Takumi Doi (RIKEN; Japan) (to be confirmed)
+* Kazuhiro Yabana (University of Tsukuba; Japan)
+* Youhei Yamaji (National Institute for Materials Science; Japan)
+* Takuma Yamashita (Tohoku University; Japan)
+* Sun Yang (Xiamen University; China)
+* Nobuyuki Yoshioka (University of Tokyo; Japan)
