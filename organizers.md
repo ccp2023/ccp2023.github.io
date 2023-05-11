@@ -156,6 +156,7 @@ Members of the International Advisory Board
     * Takeshi KAWASAKI (Nagoya University)
     * Tomoko MIZUGUCHI (Kyoto Institute of Technology)
     * Hiroshi NOGUCHI (ISSP, University of Tokyo)
+    * Masako TAKASU (Tokyo University of Pharmacy and Life Sciences)
 19. Chemical Physics
     * Nobuyuki MATUBAYASI (Osaka University)
     * Tetsuro NAGAI (Fukuoka University)
@@ -168,6 +169,5 @@ Members of the International Advisory Board
     * Yuko OKAMOTO, Chair (Nagoya University)
     * Hisashi OKUMURA (ERCLLS/IMS)
     * Yuji SUGITA (RIKEN)
-    * Masako TAKASU (Tokyo University of Pharmacy and Life Sciences)
     * Florence TAMA (Nagoya University/RIKEN R-CCS)
     * Shigenori TANAKA (Kobe University)
