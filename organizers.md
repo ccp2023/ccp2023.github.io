@@ -13,6 +13,7 @@ title: Organizers
 * Yuko OKAMOTO, Chair (Nagoya University)
 * Tsuyoshi OKUBO (University of Tokyo)
 * Hisashi OKUMURA (Exploratory Research Center on Life and Living Systems/Institute for Molecular Science)
+* Yuichi OTSUKA (RIKEN R-CCS)
 * Motoyuki SHIGA (Japan Atomic Energy Agency)
 * Synge TODO (University of Tokyo)
 * Shinji TSUNEYUKI (University of Tokyo)
