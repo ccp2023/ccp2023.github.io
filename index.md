@@ -23,7 +23,7 @@ Supercomputer Fugaku at RIKEN R-CCS in Kobe (© RIKEN)
 CCP2023 is the 34th in a series of meetings of scientists working in the domain of Computational Physics. The Conference on Computational Physics (CCP) is held every year under the auspices of the [C20 Commission for Computational Physics](https://iupap.org/who-we-are/internal-organization/commissions/c20-computational-physics/) of the [International Union of Pure and Applied Physics (IUPAP)](assets/images/iupap100.pdf). The conference includes a broad range of computational scientists with common interests in communicating and engaging with their computation-oriented colleagues to exchange information and develop future collaborations. We plan to hold CCP2023 in a hybrid way, namely, on-site and on-line (using an Internet conference system).
 
 <img src="assets/images/twilight.jpg"/>
-Kobe in the twilight (©︎ Kobe Tourism Bureau）
+Kobe in the Twilight (©︎ Kobe Tourism Bureau）
 
 ### [IUPAP Conference Policies](https://iupap.org/conferences/conference-policies/)
 
