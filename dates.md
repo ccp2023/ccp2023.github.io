@@ -9,6 +9,7 @@ title: Key Dates
 * [Registration](registration.html) Opening: March 6, 2023
 * [Abstract Submission](abstracts.html) Opening: March 6, 2023
 * [Abstract Submission](abstracts.html) Closing: ~~May 1, 2023~~ -> May 15, 2023
+* [Abstract Post-Deadline Submission](abstracts.html): May 22, 2023
 * Abstract Acceptance Notification: ~~May 7, 2023~~ -> May 22, 2023
 * [Early Registration and Payment](registration.html) Closing: May 31, 2023
 * [Registration and Payment](registration.html) Deadline for Oral/Poster Presentation: July 15, 2023
