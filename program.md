@@ -56,7 +56,7 @@ For the online participants with the time difference, we plan to take videos of 
 
 * Ryotaro Arita (University of Tokyo; Japan)
 * Bernard Brooks (National Institutes of Health; USA)
-* Zoltan Fodor (University of Wuppertal/Pennsylvania State University; Germany/USA)
+* Zoltan Fodor (Pennsylvania State University and University of San Diego/University of Wuppertal and Forschungszentrum Jülich/Roland Eotveos University Budapest; USA/Germany/Hungary)
 * Michael Klein (Temple University; USA)
 * Werner Krauth (Ecole Normale Supérieure; France)
 * Nicola Marzari (École Polytechnique Fédérale de Lausanne; Switzerland)
