@@ -5,7 +5,7 @@ title: Registration
 
 # Registration
 
-[[Registration free](#registration-fee)] [[Cancelation Policy](#cancelation-policy)] [[Travel/registration awards for early career APS-DCOMP members](#travelregistration-awards-for-early-career-aps-dcomp-members)]
+[[Registration free](#registration-fee)] [[Cancelation Policy](#cancelation-policy)] [[APS-DCOMP Travel/registration awards for early career participants](#aps-dcomp-travelregistration-awards-for-early-career-participants)] [[EPS travel/registration awards for early career participants](#eps-travelregistration-awards-for-early-career-participants)]
 
 * Online registration: [https://ccp.confit.atlas.jp/](https://ccp.confit.atlas.jp/)
 * Registration period:
@@ -40,8 +40,16 @@ title: Registration
 
 The fees are, in principle, not refundable after payment is completed.
 
-### Travel/registration awards for early career APS-DCOMP members
+### APS-DCOMP Travel/registration awards for early career participants
 
 Young members (students and postdocs) of APS-DCOMP, who will give a presentation at CCP2023, are invited to apply for the travel/registration awards of 800 US dollars.
 The candidates should send an application e-mail attaching a CV to [ccp2023-oc@ml.riken.jp](mailto:ccp2023-oc@ml.riken.jp?subject=APS-DCOMP%20award) with a Subject: APS-DCOMP award, and also ask their supervisors to send a recommendation letter directly to [ccp2023-oc@ml.riken.jp](mailto:ccp2023-oc@ml.riken.jp?subject=APS-DCOMP%20award).
 The results of acceptance or rejection will be notified to the applicants by e-mail as soon as the evaluation is completed.
+
+<a href="assets/files/dcomp-membership.pdf"><img  class="noborder" src="assets/images/dcomp.png" width="260" /></a>
+
+### EPS travel/registration awards for early career participants
+
+Young scientists (who obtained a Ph.D. degree 6 years ago or are younger), who are studying or working at a European institution or demonstrating economic need, can receive 350 Euros and free registration fees. The candidates should send an application e-mail attaching a CV to [ccp2023-oc@ml.riken.jp](mailto:ccp2023-oc@ml.riken.jp?subject=EPS%20award) with a Subject: EPS award, and also ask their supervisors to send a recommendation letter directly to [ccp2023-oc@ml.riken.jp](mailto:ccp2023-oc@ml.riken.jp?subject=EPS%20award). The results of acceptance or rejection will be notified to the applicants by e-mail as soon as the evaluation is completed.
+
+<a href="https://www.eps.org/members/group.aspx?id=85228"><img class="noborder" src="assets/images/eps.png" width="110" /></a>

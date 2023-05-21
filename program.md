@@ -73,6 +73,7 @@ For the online participants with the time difference, we plan to take videos of 
 * Takashi Ishihara (Okayama University; Japan)
 * Hawoong Jeong (KAIST; Korea)
 * Takashi Kaneko (KEK; Japan)
+* Kimmo Kaski (Aalto University; Finland)
 * Hyung Mok Lee (Seoul National University; Korea)
 * Mai Suan Li (Institute for Computational Science and Technology, Ho Chi Minh City/Institute of Physics, Polish Academy of Sciences; Vietnam/Poland)
 * Yosuke Matsumoto (Chiba University; Japan)

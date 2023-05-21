@@ -10,9 +10,10 @@ Supercomputer Fugaku at RIKEN R-CCS in Kobe (© RIKEN)
 
 ### News
 
+* [2023-05-22] [EPS travel/registration awards](registration.html#eps-travelregistration-awards-for-early-career-participants) are now available.
 * [2023-05-11] The dates of the tours of Supercomputer FUGAKU have been changed from August 7 and 8 to August 5 and 7.
 * [2023-05-01] [Abstract Submission](abstracts.html) deadline has been extended to May 15, 2023.
-* [2023-04-25] [APS-DCOMP travel/registration awards](registration.html#travelregistration-awards-for-early-career-aps-dcomp-members) are now available.
+* [2023-04-25] [APS-DCOMP travel/registration awards](registration.html#aps-dcomp-travelregistration-awards-for-early-career-participants) are now available.
 * [2023-03-06] Online [abstract submission](abstracts.html) and [registration](registration.html) have opened.
 
 ### CCP2023
