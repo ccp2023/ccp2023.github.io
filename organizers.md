@@ -51,7 +51,9 @@ and
 
 * Sinya AOKI (Kyoto University)
 * Michiko FUJII (University of Tokyo)
+* Koji FUKAGATA (Keio University)
 * Toshiyuki GOTOH (Nagoya Institute of Technology)
+* Koji HASHIMOTO (Kyoto University)
 * Tetsuo HATSUDA (RIKEN iTHEMS)
 * Chisa HOTTA (University of Tokyo)
 * Koji HUKUSHIMA (University of Tokyo)
@@ -69,6 +71,7 @@ and
 * Misako TAKAYASU (Tokyo Institute of Technology)
 * Florence TAMA (Nagoya University/RIKEN R-CCS)
 * Shigenori TANAKA (Kobe University)
+* Shinji TSUNEYUKI (University of Tokyo)
 * Tomo-Hiko WATANABE (Nagoya University)
 * Takeshi YANAI (Nagoya University)
 
