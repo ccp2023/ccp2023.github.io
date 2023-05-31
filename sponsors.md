@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Sponsors
+title: Sponsors / Exhibitors
 ---
 
-# Sponsors
+# Sponsors / Exhibitors
 
 * [CCP2023における展示のお願い](assets/files/CCP2023展示願い-2023-4.pdf) [[pdf]](assets/files/CCP2023展示願い-2023-4.pdf)
 * CCP2023展示申込書: [[word]](assets/files/CCP2023展示申込書-2023-4.docx) [[pdf]](assets/files/CCP2023展示申込書-2023-4.pdf)
@@ -16,6 +16,10 @@ title: Sponsors
 <tr>
   <td><a href="assets/files/dcomp-membership.pdf"><img  class="noborder" src="assets/images/dcomp.png" width="260" /></a></td>
   <td><a href="https://www.eps.org/members/group.aspx?id=85228"><img class="noborder" src="assets/images/eps.png" width="110" /></a></td>
+</tr>
+<tr>
+  <td><a href="https://www.issp.u-tokyo.ac.jp"><img class="noborder" src="assets/images/issp.jpg" width="250" /></a></td>
+  <td><a href="https://sqai.jp"><img class="noborder" src="assets/images/sqai.png" width="150" /></a></td>
 </tr>
 <tr>
   <td><a href="https://kobe-convention.jp/en/"><img class="noborder" src="assets/images/kobe-convention-bureau.jpg" width="200" /></a></td>
