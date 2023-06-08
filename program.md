@@ -67,7 +67,7 @@ For the online participants with the time difference, we plan to take videos of 
 
 * Gabor Csanyi (University of Cambridge; UK)
 * Marjolein Dijkstra (Utrecht University; Netherlands)
-* Takumi Doi (RIKEN; Japan) (to be confirmed)
+* Takumi Doi (RIKEN; Japan)
 * Hideyuki Hotta (Nagoya University; Japan)
 * Chao-Ping Hsu (Academia Sinica; Taiwan)
 * Takashi Ishihara (Okayama University; Japan)
