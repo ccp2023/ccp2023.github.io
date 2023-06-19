@@ -84,6 +84,7 @@ For the online participants with the time difference, we plan to take videos of 
 * Anders Sandvik (Boston University; USA)
 * Chaok Seok (Seoul National University; Korea)
 * John Straub (Boston University; USA)
+* Yang Sun (Xiamen University; China)
 * Florence Tama (Nagoya University/RIKEN; Japan)
 * Yasushi Todo (National Institute for Fusion Science; Japan)
 * David Wales (University of Cambridge; UK)
@@ -91,5 +92,4 @@ For the online participants with the time difference, we plan to take videos of 
 * Kazuhiro Yabana (University of Tsukuba; Japan)
 * Youhei Yamaji (National Institute for Materials Science; Japan)
 * Takuma Yamashita (Tohoku University; Japan)
-* Sun Yang (Xiamen University; China)
 * Nobuyuki Yoshioka (University of Tokyo; Japan)
