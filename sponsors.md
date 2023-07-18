@@ -18,6 +18,10 @@ title: Sponsors / Exhibitors
   <td><a href="https://www.eps.org/members/group.aspx?id=85228"><img class="noborder" src="assets/images/eps.png" width="110" /></a></td>
 </tr>
 <tr>
+  <td><a href="https://www.r-ccs.riken.jp/en/"><img class="noborder" src="assets/images/rccs.png" width="250" /></a></td>
+  <td><a href=""><img class="noborder" src="assets/images/fujitsu" width="150" /></a></td>
+</tr>
+<tr>
   <td><a href="https://www.issp.u-tokyo.ac.jp"><img class="noborder" src="assets/images/issp.jpg" width="250" /></a></td>
   <td><a href="https://sqai.jp"><img class="noborder" src="assets/images/sqai.png" width="150" /></a></td>
 </tr>
