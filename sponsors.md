@@ -19,7 +19,7 @@ title: Sponsors / Exhibitors
 </tr>
 <tr>
   <td><a href="https://www.r-ccs.riken.jp/en/"><img class="noborder" src="assets/images/rccs.png" width="250" /></a></td>
-  <td><a href=""><img class="noborder" src="assets/images/fujitsu" width="150" /></a></td>
+  <td><a href=""></a></td>
 </tr>
 <tr>
   <td><a href="https://www.issp.u-tokyo.ac.jp"><img class="noborder" src="assets/images/issp.jpg" width="250" /></a></td>
