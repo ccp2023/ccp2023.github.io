@@ -10,6 +10,7 @@ Supercomputer Fugaku at RIKEN R-CCS in Kobe (© RIKEN)
 
 ### News
 
+* [2023-08-04] Program, Abstracts, Zoom Information can be found in the [Confit Program site](https://confit.atlas.jp/guide/event/ccp2023/top?lo=fin&eventCode=ccp2023) and the login information can be found in the e-mail sent to you from noreply.confit@atlas.jp at 11:27 on August 1, 2023.
 * [2023-08-04] [Information for on-site poster presenters](info-20230804-2.html)
 * [2023-08-04] [Information about WiFi connection in the venue](info-20230804.html)
 * [2023-08-03] [Information just before CCP2023](info-20230803.html)
