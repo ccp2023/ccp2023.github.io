@@ -19,7 +19,7 @@ title: Program
 
 ### Program
 
-* Tentative Program: [[PDF]](assets/files/program-tentative.pdf) (as of 2023-08-07)
+* Final Program: [[PDF]](assets/files/program-final.pdf)
 
 ### Presentation materials
 
