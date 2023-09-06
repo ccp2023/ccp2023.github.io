@@ -10,6 +10,7 @@ CCP2023 Group Photo (2023-08-06)
 
 ### News
 
+* [2023-09-06] Detailed information on [proceedings submissions](proceedings.html) is now available.
 * [2023-08-28] Announcement for CCP2024:<br/>
   CCP2024 will be held on-site in Thessaloniki, Greece on July 7-12, 2024.
 * [2-23-08-28] [Summary of CCP2023](assets/files/summary-ccp2023.pdf) is now available.
