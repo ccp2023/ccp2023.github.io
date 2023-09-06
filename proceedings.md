@@ -10,7 +10,7 @@ The deadline for submission of manuscripts for the proceedings is September 30, 
 We plan to publish the proceedings from [Springer Proceedings in Physics](https://www.springer.com/series/361).
 
 You can now submit your proceedings manuscript at the following URL:
-https://equinocs.springernature.com/service/CCP2023
+[https://equinocs.springernature.com/service/CCP2023](https://equinocs.springernature.com/service/CCP2023)
 
 The lengths of the manuscripts are as follows:
 
