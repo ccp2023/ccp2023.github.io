@@ -21,7 +21,7 @@ The lengths of the manuscripts are as follows:
 
 Please use the templates that can be downloaded from the URL given below.
 The publication fees are free and the entire proceedings will be Open Access (i.e., if your manuscript is accepted for publication, we will cover your Open Access fees).
-When you submit your manuscript, please suggest at least 3 possible reviewers who, you think, can evaluate your manuscript properly.
+When you submit your manuscript, please suggest at least 3 possible reviewers who, you think, can evaluate your manuscript properly (please use the button “contact PC chairs”).
 We would like you to submit your manuscript by the end of September, 2023 (or as soon as possible after this date).
 
 The author guide and templates for manuscript preparation can be found at [https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines](https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines).
