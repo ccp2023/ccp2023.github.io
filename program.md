@@ -21,7 +21,7 @@ title: Program
 
 * Final Program: [[PDF]](assets/files/program-final.pdf) (2023-08-08)
 * Online program is now open to public at the Confit Program site:
-[https://confit.atlas.jp/guide/event/ccp2023/top?lang=en](https://confit.atlas.jp/guide/event/ccp2023/top?lang=en) (2023-10-20)
+[https://pub.confit.atlas.jp/en/event/ccp2023](https://pub.confit.atlas.jp/en/event/ccp2023) (2023-10-20)
 
 ### Presentation materials
 

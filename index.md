@@ -10,14 +10,14 @@ CCP2023 Group Photo (2023-08-06)
 
 ### News
 
-* [2023-10-20] The Confit Program site is now open to public with the following URL: [https://confit.atlas.jp/guide/event/ccp2023/top?lang=en](https://confit.atlas.jp/guide/event/ccp2023/top?lang=en)
+* [2023-10-20] The Confit Program site is now open to public with the following URL: [https://pub.confit.atlas.jp/en/event/ccp2023](https://pub.confit.atlas.jp/en/event/ccp2023)
 * [2023-09-06] Detailed information on [proceedings submissions](proceedings.html) is now available.
 * [2023-08-28] Announcement for CCP2024:<br/>
   CCP2024 will be held on-site in Thessaloniki, Greece on July 7-12, 2024.
 * [2-23-08-28] [Summary of CCP2023](assets/files/summary-ccp2023.pdf) is now available.
 * [2-23-08-28] [Some photos](assets/files/ccp2023-photos.pdf) from CCP2023 are now available.
 * [2023-08-05] [Information for on-site oral presentation](info-20230805.html)
-* [2023-08-04] Program, Abstracts, Zoom Information can be found in the [Confit Program site](https://confit.atlas.jp/guide/event/ccp2023/top?lo=fin&eventCode=ccp2023) and the login information can be found in the e-mail sent to you from noreply.confit@atlas.jp at 11:27 on August 1, 2023.
+* [2023-08-04] Program, Abstracts, Zoom Information can be found in the [Confit Program site](https://pub.confit.atlas.jp/en/event/ccp2023) and the login information can be found in the e-mail sent to you from noreply.confit@atlas.jp at 11:27 on August 1, 2023.
 * [2023-08-04] [Information for on-site poster presenters](info-20230804-2.html)
 * [2023-08-04] [Information about WiFi connection in the venue](info-20230804.html)
 * [2023-08-03] [Information just before CCP2023](info-20230803.html)
